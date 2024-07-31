@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arcoPhobia
+- 👋 Hi, I’m @cornOfCob
 - 👀 I’m interested in python command line applications
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on N/A
